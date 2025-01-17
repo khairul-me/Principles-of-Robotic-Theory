@@ -1,0 +1,7 @@
+Optimal Robot Payload Configuration:
+-----------------------------------
+Item 3: Weight = 30 lbs, Value = $120
+Item 2: Weight = 20 lbs, Value = $100
+-----------------------------------
+Total Weight: 50/50 lbs
+Total Value: $220
